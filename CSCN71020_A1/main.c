@@ -5,7 +5,6 @@ void printOptions();
 void add();
 void subtract();
 
-
 void main() {
 
 	printWelcomeMenu();
